@@ -1,4 +1,4 @@
-# Sytem Scaling
+# System Scaling
 
 System scaling is the process of upgrading your existing software infrastructure to meet the varying demands of client requests. It involves either vertical scaling (adding more resources to existing servers) or horizontal scaling (adding more servers to share the load) to improve the overall performance and reliability.
 
