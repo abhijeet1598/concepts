@@ -69,6 +69,7 @@ Pick one habit that you would like to do more of? What are the steps that you ca
 **Ans:** I will buy a book and put it on my bed. Every time, I lie down on my bed, I will read 2 sentences from the book. And after reading it, I will celebrate the completion of reading sentences from the book by drinking water.
 
 **Question 9**
+
 Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
 **Ans:** I will put my phone in "do not disturb" mode once I go to bed so that a notification sound does not trigger me to use the phone before sleeping. If somehow I use the phone, I will log out of my social applications for a day.
